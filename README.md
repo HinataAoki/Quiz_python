@@ -5,3 +5,5 @@ I made this for test.
 Please use this by making questions.csv like that
 (name of questions must be questions.csv because python file look for 'questions.csv'file.)
 (and set questions.csv in same file as main.py)
+
+<h2>if you want download this plz look release-page</h2>
